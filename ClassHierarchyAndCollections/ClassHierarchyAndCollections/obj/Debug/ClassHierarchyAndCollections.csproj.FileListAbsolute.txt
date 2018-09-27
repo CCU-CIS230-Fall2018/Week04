@@ -1,0 +1,6 @@
+C:\Users\Jon\Source\Repos\Week04\ClassHierarchyAndCollections\ClassHierarchyAndCollections\bin\Debug\ClassHierarchyAndCollections.dll
+C:\Users\Jon\Source\Repos\Week04\ClassHierarchyAndCollections\ClassHierarchyAndCollections\bin\Debug\ClassHierarchyAndCollections.pdb
+C:\Users\Jon\Source\Repos\Week04\ClassHierarchyAndCollections\ClassHierarchyAndCollections\obj\Debug\ClassHierarchyAndCollections.csprojAssemblyReference.cache
+C:\Users\Jon\Source\Repos\Week04\ClassHierarchyAndCollections\ClassHierarchyAndCollections\obj\Debug\ClassHierarchyAndCollections.csproj.CoreCompileInputs.cache
+C:\Users\Jon\Source\Repos\Week04\ClassHierarchyAndCollections\ClassHierarchyAndCollections\obj\Debug\ClassHierarchyAndCollections.dll
+C:\Users\Jon\Source\Repos\Week04\ClassHierarchyAndCollections\ClassHierarchyAndCollections\obj\Debug\ClassHierarchyAndCollections.pdb
