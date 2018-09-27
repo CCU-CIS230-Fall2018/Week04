@@ -1,0 +1,16 @@
+C:\Users\Thunder\Source\Repos\Week04\ClassHierarchyAndCollections\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Thunder\Source\Repos\Week04\ClassHierarchyAndCollections\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Thunder\Source\Repos\Week04\ClassHierarchyAndCollections\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Thunder\Source\Repos\Week04\ClassHierarchyAndCollections\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\Thunder\Source\Repos\Week04\ClassHierarchyAndCollections\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\Thunder\Source\Repos\Week04\ClassHierarchyAndCollections\UnitTestProject\bin\Debug\ClassHierarchyAndCollections.dll
+C:\Users\Thunder\Source\Repos\Week04\ClassHierarchyAndCollections\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Thunder\Source\Repos\Week04\ClassHierarchyAndCollections\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Thunder\Source\Repos\Week04\ClassHierarchyAndCollections\UnitTestProject\bin\Debug\ClassHierarchyAndCollections.pdb
+C:\Users\Thunder\Source\Repos\Week04\ClassHierarchyAndCollections\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Thunder\Source\Repos\Week04\ClassHierarchyAndCollections\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Thunder\Source\Repos\Week04\ClassHierarchyAndCollections\UnitTestProject\obj\Debug\UnitTestProject.csprojAssemblyReference.cache
+C:\Users\Thunder\Source\Repos\Week04\ClassHierarchyAndCollections\UnitTestProject\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
+C:\Users\Thunder\Source\Repos\Week04\ClassHierarchyAndCollections\UnitTestProject\obj\Debug\UnitTestProject.csproj.CopyComplete
+C:\Users\Thunder\Source\Repos\Week04\ClassHierarchyAndCollections\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\Thunder\Source\Repos\Week04\ClassHierarchyAndCollections\UnitTestProject\obj\Debug\UnitTestProject.pdb
