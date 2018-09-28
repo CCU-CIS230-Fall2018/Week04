@@ -1,0 +1,46 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Week4
+{
+    class Contact
+    {
+        static void Main(string[] args)
+        {
+            class Organization
+            {
+                class Association
+                {
+
+                }
+                class School
+                {
+
+                }
+                class Business
+                {
+
+                }
+            }
+            class Individual
+            {
+                class Student
+                {
+
+                }
+                class Member
+                {
+
+                }
+                class Client
+                {
+
+                }
+            }
+        }   
+    }
+
+ 
