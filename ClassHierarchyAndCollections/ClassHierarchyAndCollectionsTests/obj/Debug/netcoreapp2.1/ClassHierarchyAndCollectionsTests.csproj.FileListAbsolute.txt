@@ -1,0 +1,17 @@
+C:\Users\noahj\Source\Repos\Week04\ClassHierarchyAndCollections\ClassHierarchyAndCollectionsTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\noahj\Source\Repos\Week04\ClassHierarchyAndCollections\ClassHierarchyAndCollectionsTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\noahj\Source\Repos\Week04\ClassHierarchyAndCollections\ClassHierarchyAndCollectionsTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\noahj\Source\Repos\Week04\ClassHierarchyAndCollections\ClassHierarchyAndCollectionsTests\bin\Debug\netcoreapp2.1\ClassHierarchyAndCollectionsTests.deps.json
+C:\Users\noahj\Source\Repos\Week04\ClassHierarchyAndCollections\ClassHierarchyAndCollectionsTests\bin\Debug\netcoreapp2.1\ClassHierarchyAndCollectionsTests.runtimeconfig.json
+C:\Users\noahj\Source\Repos\Week04\ClassHierarchyAndCollections\ClassHierarchyAndCollectionsTests\bin\Debug\netcoreapp2.1\ClassHierarchyAndCollectionsTests.runtimeconfig.dev.json
+C:\Users\noahj\Source\Repos\Week04\ClassHierarchyAndCollections\ClassHierarchyAndCollectionsTests\bin\Debug\netcoreapp2.1\ClassHierarchyAndCollectionsTests.dll
+C:\Users\noahj\Source\Repos\Week04\ClassHierarchyAndCollections\ClassHierarchyAndCollectionsTests\bin\Debug\netcoreapp2.1\ClassHierarchyAndCollectionsTests.pdb
+C:\Users\noahj\Source\Repos\Week04\ClassHierarchyAndCollections\ClassHierarchyAndCollectionsTests\bin\Debug\netcoreapp2.1\ClassHierarchyAndCollections.dll
+C:\Users\noahj\Source\Repos\Week04\ClassHierarchyAndCollections\ClassHierarchyAndCollectionsTests\bin\Debug\netcoreapp2.1\ClassHierarchyAndCollections.pdb
+C:\Users\noahj\Source\Repos\Week04\ClassHierarchyAndCollections\ClassHierarchyAndCollectionsTests\obj\Debug\netcoreapp2.1\ClassHierarchyAndCollectionsTests.csprojAssemblyReference.cache
+C:\Users\noahj\Source\Repos\Week04\ClassHierarchyAndCollections\ClassHierarchyAndCollectionsTests\obj\Debug\netcoreapp2.1\ClassHierarchyAndCollectionsTests.csproj.CoreCompileInputs.cache
+C:\Users\noahj\Source\Repos\Week04\ClassHierarchyAndCollections\ClassHierarchyAndCollectionsTests\obj\Debug\netcoreapp2.1\ClassHierarchyAndCollectionsTests.AssemblyInfoInputs.cache
+C:\Users\noahj\Source\Repos\Week04\ClassHierarchyAndCollections\ClassHierarchyAndCollectionsTests\obj\Debug\netcoreapp2.1\ClassHierarchyAndCollectionsTests.AssemblyInfo.cs
+C:\Users\noahj\Source\Repos\Week04\ClassHierarchyAndCollections\ClassHierarchyAndCollectionsTests\obj\Debug\netcoreapp2.1\ClassHierarchyAndCollectionsTests.csproj.CopyComplete
+C:\Users\noahj\Source\Repos\Week04\ClassHierarchyAndCollections\ClassHierarchyAndCollectionsTests\obj\Debug\netcoreapp2.1\ClassHierarchyAndCollectionsTests.dll
+C:\Users\noahj\Source\Repos\Week04\ClassHierarchyAndCollections\ClassHierarchyAndCollectionsTests\obj\Debug\netcoreapp2.1\ClassHierarchyAndCollectionsTests.pdb

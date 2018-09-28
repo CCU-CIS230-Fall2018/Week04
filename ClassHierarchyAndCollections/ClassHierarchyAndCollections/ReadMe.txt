@@ -22,7 +22,7 @@ Instructions:
 Sample Class Hierarchy (aka Object Model):
 ------------------------------------------
 Contact
- |
+ | 
  -- Organization
  |   |
  |   -- Association
